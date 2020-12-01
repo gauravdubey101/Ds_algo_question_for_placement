@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 
 using namespace std;
+
+//reverse function
 void  revarray(int arr[],int start, int end){
 	while(start<end){
 		int temp = arr[start];
